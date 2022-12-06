@@ -14,7 +14,7 @@
     "actions-toolkit": "^6.0.1",
     "axios": "^0.21.2",
     "dateformat": "^4.5.1",
-    "qs": "^6.10.1"
+    "qs": "^6.10.3"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.28.6",
